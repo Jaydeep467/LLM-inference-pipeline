@@ -208,3 +208,9 @@ llm-inference-pipeline/
 ## Tech Stack
 
 `Python` · `PyTorch` · `HuggingFace Transformers` · `Flask` · `Streamlit` · `Plotly` · `Docker` · `pytest`
+
+## Dahboard output
+
+<img width="1456" height="819" alt="LLM_hero image" src="https://github.com/user-attachments/assets/90c4fcfe-a098-49d3-bd3e-e36fd01229ef" />
+
+
